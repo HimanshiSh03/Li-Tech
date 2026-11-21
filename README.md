@@ -1,10 +1,10 @@
-<h1 align="center">📚 Li-Tech</h1>
+<h1 >📚 Li-Tech</h1>
 
 <p><em>A library management system for local libraries and study rooms, built to <strong>replace the paper register</strong> and help maintain <strong>daily activities</strong> and <strong>monthly data</strong>.</em></p>
 
 ---
 
-> ### 🚧 ***Heads up***
+> ## ***Heads up***
 > **Li-Tech is in early development.** Only the **landing page** is built so far.
 > Everything under *"Planned features"* is **not working yet**, and details ***may change***.
 
