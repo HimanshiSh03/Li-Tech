@@ -1,6 +1,6 @@
 <h1 align="center">📚 Li-Tech</h1>
 
-<p align="center"><em>A library management system for local libraries and study rooms, built to <strong>replace the paper register</strong> and help maintain <strong>daily activities</strong> and <strong>monthly data</strong>.</em></p>
+<p><em>A library management system for local libraries and study rooms, built to <strong>replace the paper register</strong> and help maintain <strong>daily activities</strong> and <strong>monthly data</strong>.</em></p>
 
 ---
 
