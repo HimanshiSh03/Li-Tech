@@ -1,41 +1,35 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">📚 Li-Tech</h1>
 
-## Getting Started
+<p align="center"><em>A library management system for local libraries and study rooms, built to <strong>replace the paper register</strong> and help maintain <strong>daily activities</strong> and <strong>monthly data</strong>.</em></p>
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+> ### 🚧 ***Heads up***
+> **Li-Tech is in early development.** Only the **landing page** is built so far.
+> Everything under *"Planned features"* is **not working yet**, and details ***may change***.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🔎 The problem
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Many local libraries still track **attendance**, **seat allotments** and **fee payments** in *paper registers*.
 
-## Learn More
+That makes it hard to see **who is in the library**, **who has paid**, and **which seats are free**.
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## ✨ Planned features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| | Feature | What it does |
+|---|---|---|
+| 🕒 | **Attendance** | Students check in from a tap, and the owner sees ***who is in right now***. |
+| 💺 | **Seat reservations** | *Fixed seats* for regulars or *daily booking*, with a **live seat map**. |
+| 💳 | **Fee management** | *Monthly plans*, **payment records**, and a list of ***who is due***. |
+| 🌐 | **Public library page** | *Timings*, *fees* and *free seats*, plus a way for students to **send questions**. |
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📬 Contact
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# Li-Tech
-A library management system made for local libraries to help maintain daily activities and monthly data.
->>>>>>> ddd9d0908f96d3b956fe0b7585707f0e9e481ce4
+Built by ***Himanshi Sharma***.
+*Questions or feedback are welcome through* **GitHub issues**.
